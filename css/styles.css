@@ -1,0 +1,21 @@
+#homepage {
+
+    background-color: #E6E6E6;
+
+}
+
+
+.nav-link {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: 500;
+}
+
+.quote {
+    padding: 3% 3%;
+    font-size: 2rem;
+    font-weight: 800;
+}
+
+cite {
+    font-weight: normal;
+}
